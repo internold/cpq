@@ -7,6 +7,8 @@ CCNA 1-02 Network Topologies, Components, Cabling, and Architecture
 3	
 CCNA 1-03 IPv4 and IPv6 Types and Addressing
 
+
+
 4	
 CCNA 2-01 Switching Concepts and Ethernet
 
@@ -27,6 +29,8 @@ CCNA 2-06 Etherchannel (PAGP and LACP)
 
 10	
 CCNA 2-07 Switch Stacking and Chassiss Aggregation
+
+
 
 11	
 CCNA 3-01 Routing Concepts and Routing Table
@@ -50,10 +54,12 @@ CCNA 3-06 OSPFv2 and OSPFv3
 CCNA 3-07 EIGRP for IPv4 and IPv6
 
 18	
-CCNA 3-08 RIPV2
+CCNA 3-08 RIPv2
 
 19	
 CCNA 3-09 L3 Troubleshooting
+
+
 
 20	
 CCNA 4-01 PPP and MLPPP
@@ -70,6 +76,8 @@ CCNA 4-04 eBGP IPv4
 24	
 CCNA 4-05 Basic QoS Concepts
 
+
+
 25	
 CCNA 5-01 DNS and DHCP
 
@@ -79,6 +87,8 @@ CCNA 5-02 HSRP
 27	
 CCNA 5-03 NAT
 
+
+
 28	
 CCNA 6-01 Port Security and Threat Mitigation
 
@@ -87,6 +97,8 @@ CCNA 6-02 Traffic Filtering, ACL, APIC-EM
 
 30	
 CCNA 6-03 Device Hardening and AAA
+
+
 
 31	
 CCNA 7-01 SNMPv2, Syslog, IP SLA
