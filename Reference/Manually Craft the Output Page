@@ -1,0 +1,21 @@
+Manually Craft The Output
+As you see, by default %%CATGRADES%% is automatically replaced by your content in a loop.
+Sometimes you may want to manually design this output so you can arrange the categories in different way. You can do it this way:
+
+1. Ignore the %%CATGRADES%% variable and the “category grade output” (steps 3 and 4 above).
+
+2. Instead of this use the following variables directly in the “Final page / Quiz output” box:
+
+%%CATEGORY-NAME-X%%
+%%CATEGORY-DESCRIPTION-X%%
+%%CATEGORY-CORRECT-X%% (no. correct answers given in the category)
+%%CATEGORY-TOTAL-X%% (total number of questions answered in the category)
+%%CATEGORY-POINTS-X%% (points collected in the category)
+%%CATEGORY-PERCENTAGE-X%% (% correct achieved)
+%%CATEGORY-GTITLE-X%% (grade title of the assigned grade, if any)
+%%CATEGORY-GDESCRIPTION-X%% (grade description, if any)
+%%CATEGORY-PERCENTAGEOFMAX-X%% (% from maximum points in that category collected, variable available from WatuPRO v. 5.0.8.1)
+
+Note that X is the Category ID. You can see all category IDs at the “Question categories” page.
+
+From WatuPRO version 5.8.4.5 the variables that you see in bold can also be used directly in certificates. The variables that are NOT bold will work only if you have explicitly selected the option “Store full category grades along with the results” at the Edit Quiz -> Advanced Settings tab, section “Advanced Workflow Settings”. Note that this selection can result in large database space usage.
